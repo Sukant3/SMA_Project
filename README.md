@@ -1,4 +1,4 @@
-# SMA_Project : Mini-Project 
+# SMA : Mini-Project 
 
 # Credit Card Fraud Detection using Machine Learning
 
