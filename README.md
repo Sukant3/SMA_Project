@@ -7,9 +7,9 @@ ________________________
 
 ## 📊 Dataset
 
-- **Rows:284,807  
-- **Columns: 31  
-- **Target: 'Class'(0 = Legit, 1 = Fraud)
+- Rows:284,807  
+- Columns: 31  
+- Target: 'Class'(0 = Legit, 1 = Fraud)
   ___________________________________
 
 ## 🧠 Algorithms Used
